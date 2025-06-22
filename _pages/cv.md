@@ -37,10 +37,9 @@ Skills
 
 PROJECT EXPERIENCE
 ======
-* Dynamic Multi-Process Collaborative Operation Optimization Technology and Demonstration Application for Steel Production
-  Sept 2022 – Oct 2023, No.2020YFB1711104, funded by the National Key R\&D Program of China.
-** Participate in developing a Bayesian network-based defect tracing algorithm to identify and trace the root causes of defects in steel production
-** Implemented the defect tracing process, enabling real-time quality monitoring and optimization of production processes.
+* Dynamic Multi-Process Collaborative Operation Optimization Technology and Demonstration Application for Steel Production, Sept 2022 – Oct 2023, No.2020YFB1711104, funded by the National Key R&D Program of China.
+  * Participate in developing a Bayesian network-based defect tracing algorithm to identify and trace the root causes of defects in steel production.
+  * Implemented the defect tracing process, enabling real-time quality monitoring and optimization of production processes.
 
 HONORS
 ======
