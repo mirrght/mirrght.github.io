@@ -11,54 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Dalian, Dalian University of Technology, 2025
+* B.S. in Dalian, Dalian University of Technology, 2022
 
-Work experience
+Education
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Artificial Intelligence, Brain-Inspired Intelligence, Computer Vision
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Language
+  * Mandarin(native)
+  * English(IELTS:7.5)
+* Software
+  * Python
+  * Matlab
+  * R-language
+  * LaTeX
+
+PROJECT EXPERIENCE
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Dynamic Multi-Process Collaborative Operation Optimization Technology and Demonstration Application for Steel Production
+  Sept 2022 – Oct 2023, No.2020YFB1711104, funded by the National Key R\&D Program of China.
+** Participate in developing a Bayesian network-based defect tracing algorithm to identify and trace the root causes of defects in steel production
+** Implemented the defect tracing process, enabling real-time quality monitoring and optimization of production processes.
+
+HONORS
 ======
-* Currently signed in to 43 different slack teams
+* Special Prize of "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition (Top 5), 2023
+* First Prize Scholarship of Dalian University of Technology (Top 15%), 2022 - 2024
+  
