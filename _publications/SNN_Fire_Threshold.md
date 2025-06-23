@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/SNN_Fire_Threshold.md
 excerpt: 'This paper quantifies the classification performance of SNNs hidden layers by the linear separability measure and reduces the time-step for SNNs to achieve comparable performance with ANNs.'
+date: 2025-06-01
 venue: '(Under Review)'
 ---
 
