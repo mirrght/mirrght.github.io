@@ -2,7 +2,7 @@
 title: "Explainable Method of Determining Fire Threshold for Low-latency Spiking Neural Networks"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/SNN_Fire_Threshold.md
 excerpt: 'This paper quantifies the classification performance of SNNs hidden layers by the linear separability measure and reduces the time-step for SNNs to achieve comparable performance with ANNs.'
 venue: '(Under Review)'
 ---
