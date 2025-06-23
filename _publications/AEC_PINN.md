@@ -1,7 +1,7 @@
 ---
 title: "An Adaptive Error Correction Method for Training PINNs to Solve Inverse Problems with Noisy Observational Data"
-collection: manuscripts
-category: under review
+collection: publications
+category: manuscripts
 permalink: /publication/AEC_PINN.md
 excerpt: ' '
 date: 2025-06-02
