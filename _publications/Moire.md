@@ -1,7 +1,7 @@
 ---
 title: "Dominant RGB Channel Coding: A Simple and Effective Feature Extraction Approach for Moire Pattern Detectione]{Dominant RGB Channel Coding: A Simple and Effective Feature Extraction Approach for Moire Pattern Detection"
 collection: publications
-category: manuscripts
+category:  
 permalink: /publication/Moire.md
 excerpt: 'This paper designs a simple and effective feature extraction method to capture the key characteristics of the images with moire patterns. The most interesting thing is that just the direct usage of DRC coding results is able to provide satisfactory detection.'
 date: 2025-06-01
