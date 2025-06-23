@@ -14,9 +14,9 @@ Education
 * M.S. in Dalian, Dalian University of Technology, 2025
 * B.S. in Dalian, Dalian University of Technology, 2022
 
-Education
+Interests
 ======
-Artificial Intelligence, Brain-Inspired Intelligence, Computer Vision
+Brain-inspired Computing, Physics-Informed Intelligence
 
 Publications
 ======
