@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/AEC_PINN.md
 excerpt: ' '
-date: 2025-06-02
+date: 2025-03-01
 venue: '(Under Review)'
 ---
 
