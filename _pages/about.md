@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " Computational Mathematics MSc graduate seeking a research group specializing in theory-rich AI fields. "
+title: " Computational Mathematics MSc graduate seeking a research group specializing in theory-rich AI fields"
 author_profile: true
 redirect_from: 
   - /about/
