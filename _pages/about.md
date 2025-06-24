@@ -9,4 +9,5 @@ redirect_from:
 
 
 * Core interests: Brain-inspired Computing, Physics-Informed Intelligence.
-* Passionate about mathematical foundations and theoretical exploration. Committed to deep specialization in emerging interdisciplinary areas.
+* Passionate about mathematical foundations and theoretical exploration.
+* Committed to deep specialization in emerging interdisciplinary areas.
