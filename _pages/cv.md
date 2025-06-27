@@ -16,7 +16,7 @@ Education
 
 Interests
 ======
-Brain-inspired Computing, Physics-Informed Intelligence
+Brain-inspired Intelligence, Physics-Informed Intelligence
 
 Publications
 ======
