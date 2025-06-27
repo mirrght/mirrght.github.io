@@ -27,8 +27,8 @@ Publications
 Skills
 ======
 * Language
-  * Mandarin(native)
-  * English(IELTS:7.5)
+  * Mandarin (native)
+  * English (IELTS:7.5)
 * Software
   * Python
   * Matlab
