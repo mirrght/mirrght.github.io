@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Moire.md
 excerpt: 'This paper designs a simple and effective feature extraction method to capture the key characteristics of the images with moire patterns. The most interesting thing is that just the direct usage of DRC coding results is able to provide satisfactory detection.'
-date: 2025-03-02
+date: 2025-10-08
 venue: 'Signal, Image and Video Processing (SCI, JCR Q3)'
 citation: 'Hanting Guan, Wensheng Li, Chao Zhang. (2025). &quot;Dominant RGB Channel Coding: A Simple and Effective Feature Extraction Approach for Moire Pattern Detection.&quot; <i>Signal, Image and Video Processing</i>.'
 ---
